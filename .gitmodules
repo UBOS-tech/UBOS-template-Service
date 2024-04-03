@@ -1,0 +1,8 @@
+[submodule "UBOS_Service_Template_ui"]
+	path = UBOS_Service_Template_ui
+	url = https://github.com/UBOS-Asset-Store/UBOS_Service_Template_ui.git
+	branch = main
+[submodule "UBOS_Service_Template_nr"]
+	path = UBOS_Service_Template_nr
+	url = https://github.com/UBOS-Asset-Store/UBOS_Service_Template_nr.git
+    branch = master	
